@@ -1,16 +1,21 @@
-## Hi there 👋
+# 0x00 | (Zero-Day-Zodiac)
 
-<!--
-**Zero-Day-Zodiac/Zero-Day-Zodiac** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+> "Security is an illusion."
 
-Here are some ideas to get you started:
+### 🛠️ System Info
+- **User:** Zero-Day-Zodiac
+- **Role:** Full-stack Developer / Security Researcher
+- **Year:** 2000
+- **Location:** Western Sicily 🇮🇹
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### Personal Log
+I spend my life between lines of code and the silence of the coastline.
+When I'm not in the terminal, I'm usually out capturing the world through a different lens. 📸
+<!-- TO DO: Insert the link for the instagram profile -->
+
+---
+
+### 💻 Active Projects
+- **Zodiac-Project**: Stealth portal for remote surveillance (85% completed).
